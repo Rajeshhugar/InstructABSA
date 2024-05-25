@@ -1,3 +1,6 @@
+## NOTE: This repo has an updated 'JointTask_Training_&_Inference' notebook that fixes the errors that arise when using the notebook in the original repo. The original repo/notebook can be found here: https://github.com/kevinscaria/InstructABSA
+
+
 # InstructABSA: Instruction learning for Aspect Based Sentiment Classification
 
 ## 💥 New Features Coming
